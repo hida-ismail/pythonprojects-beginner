@@ -21,3 +21,4 @@ if weight > 0 and height > 0:  # Ensure valid input
         print("Enter Valid Inputs!!")
 else:
     print("Please enter valid positive values for both weight and height.")
+print("END")

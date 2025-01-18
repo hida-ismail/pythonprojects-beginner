@@ -17,7 +17,7 @@
 <p>A simple implementation of the classic hand game between the player and the computer. The program randomly selects between rock, paper, or scissors, and the player’s choice is compared to determine a winner.</p>
 
 <h2>6. Secret Message</h2>
-<p>A fun project where a message is hidden or scrambled, and the program reveals or decodes the secret message, bringing a little mystery to your coding!</p>
+<p>A fun project where a message is hidden or scrambled, and the program reveals or decodes the secret message, bringing a little mystery to your coding!!!</p>
 
 
 
